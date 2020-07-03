@@ -1,0 +1,45 @@
+.form-control{
+    width: 70%;
+    margin: auto;
+}
+
+.word{
+    text-transform: uppercase;
+}
+
+.email{
+    text-transform: lowercase;
+}
+
+.form-label{
+    margin: auto 15%;   
+}
+
+.submit{
+    margin: 3% auto;
+}
+
+.head-button{
+    margin: 1rem 0.5rem
+}
+
+.button{
+    display: flex;
+}
+
+.error{
+    color: red;
+    margin: 15%;
+}
+
+.navbar{
+    color: white;
+    font-size: 2rem;
+    padding: 0.5rem 1rem;
+}
+
+.header{
+    color: blue;
+    font-size: 1.5rem;
+    margin: 0.5rem 0.5rem auto;
+}
